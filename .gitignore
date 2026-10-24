@@ -1,0 +1,6 @@
+node_modules/
+.env
+.DS_Store
+# Keep story data on the API host's persistent disk, not in the public repo.
+data/stories.json
+data/suggestions.json
